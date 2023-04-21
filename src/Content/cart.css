@@ -1,0 +1,23 @@
+.card{
+    width: 18rem;
+}
+span{
+    font-weight: bold;
+}
+
+.Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Common{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-group{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
